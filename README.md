@@ -6,12 +6,8 @@
 <h1> About me </h1>
 
 
-- 👋 Hi, I’m Matheus. Currently, I hold a Bachelor degree in Chemistry (with an emphasis on Food Chemistry) @ Universidade de São Paulo - São Carlos Institute of Chemistry. I have a 2.5 year long background on computational chemistry studying carbon dioxide adsorption on transition metal clusters. 
-Later in 2020, I joined an experimental research group studying the synthesis and characterization of silica compounds. Both projects were funded with a PUB-USP scholarship. During 2021, I took a research internship on post-harvest related technologies at EMBRAPA. Nowadays, I'm enrolled in a MBA program in Data Science & Analytics at ESALQ-USP, while working as LIMS Consultant Trainee.
-
-- 👀 I’m interested in mathematical applications of programming and data gathering and analysis.
-
-- 🌱 I’m currently learning Python, SQL and a few Data viz tools.
+- Hi, I’m Matheus. Currently, I hold a Bachelor degree in Chemistry (with an emphasis on Food Chemistry) @ Universidade de São Paulo - São Carlos Institute of Chemistry. I have a 2.5 year long background on computational chemistry studying carbon dioxide adsorption on transition metal clusters. 
+Later in 2020, I joined an experimental research group studying the synthesis and characterization of silica compounds. Both projects were funded with a PUB-USP scholarship. During 2021, I took a research internship on post-harvest related technologies at EMBRAPA. Nowadays, I'm enrolled in a MBA program in Data Science & Analytics at ESALQ-USP, while working as LIMS Consultant. Currently interested in data science and the development of data-driven applications.
 
 
 - 📫 Reach me at:
