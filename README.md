@@ -13,10 +13,6 @@ Later in 2020, I joined an experimental research group studying the synthesis an
 - 📫 Reach me at:
 
   <a href="https://www.linkedin.com/in/mncollacique/">LinkedIn</a> 
-  
-  or
-  
-  Email: mncollacique@gmail.com
 
 
 <h3> Work </h3>
